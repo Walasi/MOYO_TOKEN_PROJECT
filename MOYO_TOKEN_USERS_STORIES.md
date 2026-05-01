@@ -25,3 +25,7 @@ A thief steals Kwame’s phone and attempts to claim money from a different city
 | +233500000001  | Accra    | Abena – smooth claim      |
 | +233500000002  | (any)    | Grandma Efua – recover    |
 | +233500000003  | Accra    | Kwame – location block    |
+
+
+
+Video demo to the prototype is on youtube URL: Video URL: https://www.youtube.com/watch?v=0iM8c0x-Y5g
